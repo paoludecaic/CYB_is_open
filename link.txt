@@ -2,3 +2,5 @@ chatGPT
     https://github.com/paoludecaic/Free_ChatGPT_API.git
 免费书籍
     https://github.com/paoludecaic/Free_books.git
+大佬长寿秘诀
+    https://github.com/paoludecaic/how_to_live_longer.git
